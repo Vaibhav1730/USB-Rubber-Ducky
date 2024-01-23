@@ -25,6 +25,36 @@ Below is the Rasberry Pi Pico W Pinout
 ![pi-pico-w-pinout](https://github.com/Vaibhav1730/USB-Rubber-Ducky/assets/116676361/89a68042-315e-4d66-8ffc-9ff23a5ab13d)
 
 
+Methodology
+
+~	Define the project objective.
+~ Acquire the necessary hardware.
+~ Install the Arduino IDE and Thonny software
+~ Write the code to program the raspberry pi pico w.
+~ Upload the code using the vs code.
+~ Test the USB Rubber Ducky on a target computer.
+~ Evaluate the performance and make any necessary adjustments.
+~ Document the project methodology and results.
+~ Conduct a risk assessment and implement appropriate security measures.
+~ Consider the ethical implications of using the device and ensure it is used with the owner's consent.   
+
+
+Algorithm 
+
+~ Initialize the Raspberry pi pico w and all necessary components
+~ Connect the USB Rubber Ducky to the target system
+~ Wait for the target system to recognize the device
+~ Take a picture of the user using the camera module
+~ Copy all files from the user drive to a temporary storage location on the Raspberry pi pico w
+~ Connect to a particular Wi-Fi network using the network credentials
+~ Share all copied files to a given URL using a secure communication channel
+~ Turn off the Windows Defender of the system
+~ Disconnect the USB Rubber Ducky from the target system
+~ End the program
+
+
+
+
 
 
 
