@@ -17,7 +17,12 @@ The main challenge with the USB rubber ducky is ensuring that it is used in a se
 
 
 Here is the Raspberry Pi Pico W 
+
 ![raspberry_pi_pico_w](https://github.com/Vaibhav1730/USB-Rubber-Ducky/assets/116676361/17a0a619-b9e0-42ac-b235-4ac7484f72d5)
+
+Below is the Rasberry Pi Pico W Pinout
+
+
 
 
 
