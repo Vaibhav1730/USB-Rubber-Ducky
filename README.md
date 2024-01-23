@@ -74,6 +74,28 @@ Finalized USB-Rubber-Ducky
 
 ![image](https://github.com/Vaibhav1730/USB-Rubber-Ducky/assets/116676361/a5fca3d9-f595-48bd-bba5-c924f78a7d3a)
 
+---------------------------------------Hardwares Required---------------------------------------
+
+~ Raspberry pi Pico W: Raspberry Pi Pico W has been designed to be a low cost yet flexible development platform for RP2040, with a 2.4GHz wireless interface
+~ USB cable: A USB cable will be needed to connect the pico board to the target PC
+~ USB case: A USB case will be needed to protect the pico board and any other hardware components from damage
+~ Micro SD card module: This is the module that will be used to store any copied files before sharing them to a given URL
+~ Power supply: This is the power source that will be used to power the pico board and any other components
+
+---------------------------------------Softwares Required---------------------------------------
+
+~ Arduino IDE: This is a popular software development environment that is used to program a variety of microcontroller boards, including the pico board. It is available for Windows, Mac, and Linux operating systems and supports a range of programming languages, including C++.
+~ Visual Studio Code: Visual Studio Code (VS Code) is a popular source-code editor developed by Microsoft. It is free, open-source, and available on multiple platforms including Windows, macOS, and Linux.
+~ Thonny software: Thonny is an integrated development environment (IDE) for the Python programming language that is designed with beginners in mind. It is open-source and available for free on Windows, macOS, and Linux. One of the key features of Thonny is its simplified interface, which makes it easy for beginners to learn and use. The IDE includes an interactive shell and a code editor, as well as a debugger, which can help users to identify and fix errors in their code.
+
+
+
+
+The expected outcome of the project is to create a fully functional USB Rubber Ducky device that can perform a series of specific tasks on a target computer, including connecting to a specified Wi-Fi network, capturing an image of the user, copying files from a connected drive, and uploading all data to a specified URL. The device will also be programmed to disable the Windows Defender software on the target computer.
+The device will be programmed using python and based on the pico board, and will be tested on different operating systems to ensure compatibility and functionality. The expected outcome will demonstrate the successful implementation of the project methodology, including the use of appropriate software and hardware resources, while also adhering to ethical and legal standards.
+The successful completion of the project will result in a functional and efficient USB Rubber Ducky device that can perform the intended tasks with ease. The project will also provide a solid foundation for further development and research into similar devices or projects.
+
+
 
 
 
