@@ -50,27 +50,18 @@ The main challenge with the USB rubber ducky is ensuring that it is used in a se
 
 ## Algorithm
 
-~ Initialize the Raspberry pi pico w and all necessary components
++Initialize the Raspberry pi pico w and all necessary components
++Connect the USB Rubber Ducky to the target system
++Wait for the target system to recognize the device
++Take a picture of the user using the camera module
++Copy all files from the user drive to a temporary storage location on the Raspberry pi pico w
++Connect to a particular Wi-Fi network using the network credentials
++Share all copied files to a given URL using a secure communication channel
++Turn off the Windows Defender of the system
++Disconnect the USB Rubber Ducky from the target system
++End the program
 
-~ Connect the USB Rubber Ducky to the target system
-
-~ Wait for the target system to recognize the device
-
-~ Take a picture of the user using the camera module
-
-~ Copy all files from the user drive to a temporary storage location on the Raspberry pi pico w
-
-~ Connect to a particular Wi-Fi network using the network credentials
-
-~ Share all copied files to a given URL using a secure communication channel
-
-~ Turn off the Windows Defender of the system
-
-~ Disconnect the USB Rubber Ducky from the target system
-
-~ End the program
-
-Finalized USB-Rubber-Ducky
+### Finalized USB-Rubber-Ducky
 
 ![image](https://github.com/Vaibhav1730/USB-Rubber-Ducky/assets/116676361/a5fca3d9-f595-48bd-bba5-c924f78a7d3a)
 
