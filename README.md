@@ -25,7 +25,7 @@ Below is the Rasberry Pi Pico W Pinout
 ![pi-pico-w-pinout](https://github.com/Vaibhav1730/USB-Rubber-Ducky/assets/116676361/89a68042-315e-4d66-8ffc-9ff23a5ab13d)
 
 
-Methodology
+------------------------------------Methodology---------------------------------------
 
 ~	Define the project objective
 
