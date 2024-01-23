@@ -70,6 +70,10 @@ Below is the Rasberry Pi Pico W Pinout
 
 ~ End the program
 
+Finalized USB-Rubber-Ducky
+
+![image](https://github.com/Vaibhav1730/USB-Rubber-Ducky/assets/116676361/a5fca3d9-f595-48bd-bba5-c924f78a7d3a)
+
 
 
 
