@@ -86,7 +86,7 @@ Finalized USB-Rubber-Ducky
 
 ~ Power supply: This is the power source that will be used to power the pico board and any other components
 
----------------------------------------Softwares Required---------------------------------------
+------------------------------------------------------------------Softwares Required------------------------------------------------------------------
 
 ~ Arduino IDE: This is a popular software development environment that is used to program a variety of microcontroller boards, including the pico board. It is available for Windows, Mac, and Linux operating systems and supports a range of programming languages, including C++.
 
@@ -94,8 +94,7 @@ Finalized USB-Rubber-Ducky
 
 ~ Thonny software: Thonny is an integrated development environment (IDE) for the Python programming language that is designed with beginners in mind. It is open-source and available for free on Windows, macOS, and Linux. One of the key features of Thonny is its simplified interface, which makes it easy for beginners to learn and use. The IDE includes an interactive shell and a code editor, as well as a debugger, which can help users to identify and fix errors in their code.
 
-
-
+------------------------------------------------------------------Expected Outcome------------------------------------------------------------------
 
 The expected outcome of the project is to create a fully functional USB Rubber Ducky device that can perform a series of specific tasks on a target computer, including connecting to a specified Wi-Fi network, capturing an image of the user, copying files from a connected drive, and uploading all data to a specified URL. The device will also be programmed to disable the Windows Defender software on the target computer.
 The device will be programmed using python and based on the pico board, and will be tested on different operating systems to ensure compatibility and functionality. The expected outcome will demonstrate the successful implementation of the project methodology, including the use of appropriate software and hardware resources, while also adhering to ethical and legal standards.
