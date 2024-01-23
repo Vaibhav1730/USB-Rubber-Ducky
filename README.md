@@ -28,7 +28,9 @@ Below is the Rasberry Pi Pico W Pinout
 Methodology
 
 ~	Define the project objective.
+
 ~ Acquire the necessary hardware.
+
 ~ Install the Arduino IDE and Thonny software
 ~ Write the code to program the raspberry pi pico w.
 ~ Upload the code using the vs code.
