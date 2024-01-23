@@ -25,7 +25,7 @@ Below is the Rasberry Pi Pico W Pinout
 ![pi-pico-w-pinout](https://github.com/Vaibhav1730/USB-Rubber-Ducky/assets/116676361/89a68042-315e-4d66-8ffc-9ff23a5ab13d)
 
 
-------------------------------------------------------------------Methodology------------------------------------------------------------------
+----------------------------------------------------------Methodology----------------------------------------------------------
 
 ~	Define the project objective
 
@@ -48,7 +48,7 @@ Below is the Rasberry Pi Pico W Pinout
 ~ Consider the ethical implications of using the device and ensure it is used with the owner's consent
 
 
-------------------------------------------------------------------Algorithm------------------------------------------------------------------
+----------------------------------------------------------Algorithm----------------------------------------------------------
 
 ~ Initialize the Raspberry pi pico w and all necessary components
 
@@ -74,7 +74,7 @@ Finalized USB-Rubber-Ducky
 
 ![image](https://github.com/Vaibhav1730/USB-Rubber-Ducky/assets/116676361/a5fca3d9-f595-48bd-bba5-c924f78a7d3a)
 
-------------------------------------------------------------------Hardwares Required------------------------------------------------------------------
+----------------------------------------------------------Hardwares Required----------------------------------------------------------
 
 ~ Raspberry pi Pico W: Raspberry Pi Pico W has been designed to be a low cost yet flexible development platform for RP2040, with a 2.4GHz wireless interface
 
@@ -86,7 +86,7 @@ Finalized USB-Rubber-Ducky
 
 ~ Power supply: This is the power source that will be used to power the pico board and any other components
 
-------------------------------------------------------------------Softwares Required------------------------------------------------------------------
+----------------------------------------------------------Softwares Required----------------------------------------------------------
 
 ~ Arduino IDE: This is a popular software development environment that is used to program a variety of microcontroller boards, including the pico board. It is available for Windows, Mac, and Linux operating systems and supports a range of programming languages, including C++.
 
@@ -94,7 +94,7 @@ Finalized USB-Rubber-Ducky
 
 ~ Thonny software: Thonny is an integrated development environment (IDE) for the Python programming language that is designed with beginners in mind. It is open-source and available for free on Windows, macOS, and Linux. One of the key features of Thonny is its simplified interface, which makes it easy for beginners to learn and use. The IDE includes an interactive shell and a code editor, as well as a debugger, which can help users to identify and fix errors in their code.
 
-------------------------------------------------------------------Expected Outcome------------------------------------------------------------------
+----------------------------------------------------------Expected Outcome----------------------------------------------------------
 
 The expected outcome of the project is to create a fully functional USB Rubber Ducky device that can perform a series of specific tasks on a target computer, including connecting to a specified Wi-Fi network, capturing an image of the user, copying files from a connected drive, and uploading all data to a specified URL. The device will also be programmed to disable the Windows Defender software on the target computer.
 The device will be programmed using python and based on the pico board, and will be tested on different operating systems to ensure compatibility and functionality. The expected outcome will demonstrate the successful implementation of the project methodology, including the use of appropriate software and hardware resources, while also adhering to ethical and legal standards.
