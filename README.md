@@ -27,25 +27,16 @@ The main challenge with the USB rubber ducky is ensuring that it is used in a se
 
 ## Methodology
 
-~	Define the project objective
-
-~ Acquire the necessary hardware
-
-~ Install the Arduino IDE and Thonny software
-
-~ Write the code to program the raspberry pi pico W
-
-~ Upload the code using the vs code
-
-~ Test the USB Rubber Ducky on a target computer
-
-~ Evaluate the performance and make any necessary adjustments
-
-~ Document the project methodology and results
-
-~ Conduct a risk assessment and implement appropriate security measures
-
-~ Consider the ethical implications of using the device and ensure it is used with the owner's consent
++	Define the project objective
++ Acquire the necessary hardware
++ Install the Arduino IDE and Thonny software
++ Write the code to program the raspberry pi pico W
++ Upload the code using the vs code
++ Test the USB Rubber Ducky on a target computer
++ Evaluate the performance and make any necessary adjustments
++ Document the project methodology and results
++ Conduct a risk assessment and implement appropriate security measures
++ Consider the ethical implications of using the device and ensure it is used with the owner's consent
 
 
 ## Algorithm
@@ -67,23 +58,17 @@ The main challenge with the USB rubber ducky is ensuring that it is used in a se
 
 ## Hardwares Required
 
-~ Raspberry pi Pico W: Raspberry Pi Pico W has been designed to be a low cost yet flexible development platform for RP2040, with a 2.4GHz wireless interface
-
-~ USB cable: A USB cable will be needed to connect the pico board to the target PC
-
-~ USB case: A USB case will be needed to protect the pico board and any other hardware components from damage
-
-~ Micro SD card module: This is the module that will be used to store any copied files before sharing them to a given URL
-
-~ Power supply: This is the power source that will be used to power the pico board and any other components
++ Raspberry pi Pico W: Raspberry Pi Pico W has been designed to be a low cost yet flexible development platform for RP2040, with a 2.4GHz wireless interface
++ USB cable: A USB cable will be needed to connect the pico board to the target PC
++ USB case: A USB case will be needed to protect the pico board and any other hardware components from damage
++ Micro SD card module: This is the module that will be used to store any copied files before sharing them to a given URL
++ Power supply: This is the power source that will be used to power the pico board and any other components
 
 ## Softwares Required
 
-~ Arduino IDE: This is a popular software development environment that is used to program a variety of microcontroller boards, including the pico board. It is available for Windows, Mac, and Linux operating systems and supports a range of programming languages, including C++.
-
-~ Visual Studio Code: Visual Studio Code (VS Code) is a popular source-code editor developed by Microsoft. It is free, open-source, and available on multiple platforms including Windows, macOS, and Linux.
-
-~ Thonny software: Thonny is an integrated development environment (IDE) for the Python programming language that is designed with beginners in mind. It is open-source and available for free on Windows, macOS, and Linux. One of the key features of Thonny is its simplified interface, which makes it easy for beginners to learn and use. The IDE includes an interactive shell and a code editor, as well as a debugger, which can help users to identify and fix errors in their code.
++ Arduino IDE: This is a popular software development environment that is used to program a variety of microcontroller boards, including the pico board. It is available for Windows, Mac, and Linux operating systems and supports a range of programming languages, including C++.
++ Visual Studio Code: Visual Studio Code (VS Code) is a popular source-code editor developed by Microsoft. It is free, open-source, and available on multiple platforms including Windows, macOS, and Linux.
++ Thonny software: Thonny is an integrated development environment (IDE) for the Python programming language that is designed with beginners in mind. It is open-source and available for free on Windows, macOS, and Linux. One of the key features of Thonny is its simplified interface, which makes it easy for beginners to learn and use. The IDE includes an interactive shell and a code editor, as well as a debugger, which can help users to identify and fix errors in their code.
 
 ## Expected Outcome
 
